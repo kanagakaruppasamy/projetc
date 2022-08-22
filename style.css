@@ -1,0 +1,37 @@
+#bing{
+    color: rgb(0, 62, 177);
+    width: 65%;
+    height: 30px;
+}
+
+body
+{
+    background-image: linear-gradient(red, rgb(255, 102, 0), rgb(255, 196, 0), yellow, rgb(187, 255, 0));
+}
+   
+
+#start
+{
+    background-color: rgb(0, 255, 213);
+    width: 6%;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+img
+{
+    width: 40%;
+    height: 35%;
+}
+
+#bong
+{
+    border-radius: 20px;
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    fill: white;
+}
